@@ -7,7 +7,7 @@ Hello,
 
 Welcome to my first programs, MGS BANK and ROCK PAPER SCISSORS, written in Ruby.
 
-More programs to follow very soon
+More programs to follow very soon.
 
 Enjoy!
 
