@@ -139,7 +139,7 @@ class GameSession
 
     def sudden_death
         puts users_play
-        puts sudden_death_winner
+        sudden_death_winner
     end
 
     def user_input_text()
@@ -215,7 +215,7 @@ class GameSession
     def unlimited_exit
         if user_input_text == "exit"
         self.scoreboard
-        puts self.unlimited_winner
+        self.unlimited_winner
         self.new_game
         end
     end  
