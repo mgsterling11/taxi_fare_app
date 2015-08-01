@@ -1,3 +1,4 @@
+
 class TransactionAccount
   attr_accessor :balance
   attr_reader :name, :type
