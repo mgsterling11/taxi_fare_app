@@ -41,6 +41,5 @@ module Adapters
       url_string.chomp("%20AND%20")
 
     end
-
   end
 end
